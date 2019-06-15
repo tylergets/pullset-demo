@@ -1,12 +1,18 @@
 {
 	"files": [
 		"docs/*.md",
-		"README.md",
+		{
+			"path": "README.md",
+			"name": "README"
+		},
 		"stubs/test.md",
 		{
-			"name": "Blog Posts",
 			"path": "blog/*.md",
 			"type": "markdown"
+		},
+		{
+			"path":"en.json",
+			"type":"json_keys"
 		}
 	]
 }
