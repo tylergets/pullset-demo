@@ -5,7 +5,7 @@
 		"stubs/test.md",
 		{
 			"name": "Blog Posts",
-			"path": "blog/**/*.md",
+			"path": "blog/*.md",
 			"type": "markdown"
 		}
 	]
