@@ -2,6 +2,11 @@
 	"files": [
 		"docs/*.md",
 		"README.md",
-		"stubs/test.md"
+		"stubs/test.md",
+		{
+			"name": "Blog Posts",
+			"path": "blog/**/*.md",
+			"type": "markdown"
+		}
 	]
 }
