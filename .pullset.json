@@ -1,6 +1,7 @@
 {
 	"files": [
 		"docs/*.md",
-		"README.md"
+		"README.md",
+		"stubs/test.md"
 	]
 }
