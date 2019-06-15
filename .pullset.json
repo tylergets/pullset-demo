@@ -11,6 +11,7 @@
 			"type": "markdown"
 		},
 		{
+			"name": "Dashboard Language File",
 			"path":"en.json",
 			"type":"json_keys"
 		}
