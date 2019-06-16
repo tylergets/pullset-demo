@@ -1,14 +1,8 @@
 {
 	"files": [
-		"docs/*.md",
 		{
 			"path": "README.md",
 			"name": "README"
-		},
-		"stubs/test.md",
-		{
-			"path": "blog/*.md",
-			"type": "markdown"
 		},
 		{
 			"name": "Dashboard Language File",
