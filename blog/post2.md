@@ -1,1 +1,1 @@
-post 2
+This is my blog post!
