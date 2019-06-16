@@ -1,6 +1,6 @@
 {
-    "global":{
-        "save": "Save",
+    "global": {
+        "save": "Saveas",
         "close": "Close"
     },
     "test1": {
