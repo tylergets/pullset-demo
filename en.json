@@ -1,9 +1,9 @@
 {
-    "global":{
+    "global": {
         "save": "Save",
         "close": "Close"
     },
     "test1": {
-        "test2": "Test"
+        "test2": "Testa"
     }
 }
