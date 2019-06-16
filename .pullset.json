@@ -12,6 +12,7 @@
 		},
 		{
 			"name": "Dashboard Language File",
+			"desc": "All the text contained in the Dashboard",
 			"path":"en.json",
 			"type":"json_keys"
 		}
